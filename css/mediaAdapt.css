@@ -40,6 +40,7 @@
     }
     .help__content {
         display: grid;
+        gap: 10px
     }
    .opening__row {
     display: flex;
@@ -160,6 +161,7 @@
     }
     .help__content {
         display: grid;
+        gap: 10px
     }
     .footer__item:first-child {
         margin-bottom: 15px;
