@@ -1,5 +1,4 @@
 @media (min-width: 360px) and (max-width: 480px) {
-  
     .help__text {
         font-size: 17px;
     }
@@ -53,7 +52,7 @@
     height: 700px
   }
   .opening img {
-    width: 150%;
+    width: 230%;
   }
     .opening__block {
         max-width: 100%;
@@ -115,6 +114,9 @@
 
 }
 @media (min-width: 481px) and (max-width: 768px) {
+    .opening img {
+        width: 180%;
+      }
 
     .help__text {
         font-size: 17px;
@@ -218,6 +220,9 @@
 
 }
 @media (min-width: 768px) and (max-width: 991px) {
+    .opening img {
+        width: 150%;
+      }
     .header__content {
         padding: 0;
     }
@@ -236,7 +241,7 @@
     }
     .triangle {
         left: 45.2%;
-        top: 323px
+        top: 325px
     }
     .triangle2 {
         left: 44.9%;
@@ -314,7 +319,7 @@
            }
           
         .fourth__li__big {
-            transform: translate(0, 200px);
+            transform: translate(0, 210px);
             transition: all .5s ease;
             
         }
@@ -404,7 +409,7 @@
             transform: rotate(90deg) translate(190px, -110px);
         }
         .triangle2__clicked-both {
-            transform: translate(0, 230px);;
+            transform: translate(0, 240px);;
         }
         .firstUl > li {
             transition: all .2s ease-in-out;
@@ -419,7 +424,7 @@
             margin: 0 auto;
         }
         .firstUl > li:nth-of-type(5) .menu__sub-list {
-            top: 20px;
+            top: 15px;
         }
 
  .nav {
@@ -470,10 +475,10 @@
             background: url(../img/large-wholesale/modules/video-poster-21.jpg) 0% / cover no-repeat;
         }
         .functional__btn_phone-20 {
-            background: url(../img/large-wholesale/modules/video-poster-21.jpg) 0% / cover no-repeat;
+            background: url(../img/large-wholesale/modules/video-poster-20.jpg) 0% / cover no-repeat;
         }
         .functional__btn_phone-19 {
-            background: url(../img/large-wholesale/modules/video-poster-21.jpg) 0% / cover no-repeat;
+            background: url(../img/large-wholesale/modules/video-poster-19.jpg) 0% / cover no-repeat;
         } 
     }
     @media (min-width: 240px) {
